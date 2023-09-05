@@ -3,7 +3,7 @@
 
 :wave: Soy estudiante del doctorado en Neurociencias [^1]:segundo año en la Pontificia Universidad Javeriana (https://www.javeriana.edu.co/doctorado-neurociencias). 
 
-![Foto de la Universidad Javeriana](https://es.wikipedia.org/wiki/Pontificia_Universidad_Javeriana#/media/Archivo:P.javeriana.jpg))
+![Foto de la Universidad Javeriana](https://es.wikipedia.org/wiki/Pontificia_Universidad_Javeriana#/media/Archivo:P.javeriana.jpg)
 
 
 ### Proyecto de investigación del doctorado :heartpulse:
@@ -28,10 +28,15 @@ Durante toda mi vida mis intereses han sido la politica social, especialmente la
 
 ### Algunos logros construídos con otras personas**
 
-[def]: https://es.wikipedia.org/wiki/Pontificia_Universidad_Javeriana#/media/Archivo:P.javeriana.jpg
-
-| ![El esquema de análisis y difusión del Icfes](https://www.youtube.com/watch?v=xDWX5T1aLPU) | ![Herramienta hecha con el pueblo Nasa](https://okonvirtual.com/ICFES/NASA8/) |
+| Herramientas virtuales| Grupo |
 | --- | --- |
-| ![Una con el pueblo KanKuamo](https://okonvirtual.com/ICFES/KANKUAMO/) | ![Innovación y Aprendizaje en una entidad](https://www.youtube.com/watch?v=3DMfHxPkuzo) |
+| [Mochila del saber KanKuamo](https://okonvirtual.com/ICFES/KANKUAMO/) | Pueblo Kankuamo |
+| --- | --- |
+| [Mochila del Saber Nasa](https://okonvirtual.com/ICFES/NASA8/)| Pueblo Nasa|
+| --- | --- |
+| [Innovación y Aprendizaje en una entidad](https://www.youtube.com/watch?v=3DMfHxPkuzo) | Dane|
+| --- | --- |
+| [El esquema de análisis y difusión del Icfes](https://www.youtube.com/watch?v=xDWX5T1aLPU) | Icfes |
+
 
 @FabianGil
