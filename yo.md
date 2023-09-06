@@ -15,15 +15,15 @@ Mi familia es multiespecie, en el nucleo mas cercano mi esposo :man_technologist
 
 ### El trabajo:heartpulse:
 Durante toda mi vida mis intereses han sido la politica social, especialmente la educación, la equidad y los procesos de apendizaje. Otros de mis temas de interés son:
-* Neurociencia
-* Medio ambiente
+* Neurociencia :brain:
+* Medio ambiente :earth_americas:
   * Y naturaleza
 * Inclusión social
 * Animalitos 
 * Deportes
-  * Fútbol
-  * Taekwondo
-  * Baloncesto 
+  * Fútbol :soccer:
+  * Taekwondo :martial_arts_uniform:
+  * Baloncesto :basketball:
 
 
 ### Algunos logros construídos con otras personas**
