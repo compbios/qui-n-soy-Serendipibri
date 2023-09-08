@@ -1,10 +1,14 @@
 # Quién soy
 *Por Brigitte Bravo* :heartpulse:
 
-:wave: Soy estudiante del doctorado en Neurociencias [^1]:segundo año en la Pontificia Universidad Javeriana (https://www.javeriana.edu.co/doctorado-neurociencias). 
+:wave: Soy estudiante del doctorado en Neurociencias [^1]
 
-![Foto de la Universidad Javeriana](https://es.wikipedia.org/wiki/Pontificia_Universidad_Javeriana#/media/Archivo:P.javeriana.jpg)
+[^1]: segundo año en la [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/doctorado-neurociencias).
 
+![Foto de la Universidad Javeriana](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/P.javeriana.jpg/800px-P.javeriana.jpg)
+
+[^1]: My reference.
+  
 
 ### Proyecto de investigación del doctorado :heartpulse:
 Actualmente me interesa conocer cómo la <u>discriminación</u>  respecto a las capacidades de algunos grupos sociales puede incidir en el desempeño en tareas cognitivas como las de **matemáticas**, en sujetos que forman parte de esos grupos *discriminados*. Una hipótesis plausible es que la **discriminación** histórica incide en <u>cambios la conectividad funcional del cerebro </u>  en etapas posteriores de la vida y esto incide en el desempeño en diversas tareas.
